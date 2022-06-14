@@ -1,0 +1,3 @@
+anotacoes que eu considero importantes:
+site do git: https://git-scm.com/
+markdown guide: https://www.markdownguide.org/getting-started/
